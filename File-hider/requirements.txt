@@ -1,0 +1,28 @@
+# Database
+mysqlclient
+sqlalchemy
+pymysql
+
+# Authentication
+passlib
+python-jose
+bcrypt
+
+# Email
+python-dotenv
+email-validator
+secure-smtplib
+
+# CLI
+click
+rich
+
+# General
+cryptography
+python-multipart
+
+# Docker
+gunicorn
+
+# OTP and Security
+pyotp
